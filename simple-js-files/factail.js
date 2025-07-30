@@ -1,4 +1,4 @@
-function factorial (num, acc = 1) {
+gifunction factorial (num, acc = 1) {
     if (num === 0) {
         return acc
     }
